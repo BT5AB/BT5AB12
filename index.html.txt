@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>BT5AB | Trading Team</title>
+
+<style>
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:Tahoma;
+}
+
+body{
+    height:100vh;
+    background:linear-gradient(135deg,#000000,#001b35);
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    color:white;
+}
+
+.container{
+    width:380px;
+    text-align:center;
+    padding:40px;
+    border-radius:25px;
+    border:2px solid #00ff88;
+    box-shadow:0 0 35px #00ff88;
+    animation:glow 2s infinite alternate;
+}
+
+.logo{
+    font-size:50px;
+    color:#00ff88;
+    font-weight:bold;
+    text-shadow:0 0 20px #00ff88;
+}
+
+h2{
+    margin-top:15px;
+    margin-bottom:15px;
+}
+
+p{
+    color:#cccccc;
+    line-height:1.7;
+}
+
+.button{
+    display:block;
+    margin:18px auto;
+    padding:16px;
+    width:90%;
+    text-decoration:none;
+    background:#00ff88;
+    color:black;
+    font-size:18px;
+    font-weight:bold;
+    border-radius:30px;
+    transition:0.4s;
+}
+
+.button:hover{
+    transform:scale(1.08);
+    box-shadow:0 0 25px #00ff88;
+}
+
+.footer{
+    margin-top:20px;
+    color:gold;
+    font-size:14px;
+}
+
+
+@keyframes glow{
+
+    from{
+        box-shadow:0 0 20px #00ff88;
+    }
+
+    to{
+        box-shadow:0 0 50px #00ff88;
+    }
+
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+
+<div class="container">
+
+
+<div class="logo">
+BT5AB
+</div>
+
+
+<h2>
+🚀 مرحباً بك في فريق BT5AB
+</h2>
+
+
+<p>
+اختر الخدمة التي تريدها وابدأ رحلتك معنا
+</p>
+
+
+<!-- رابط التسجيل في المنصة -->
+
+<a class="button"
+href="https://u3.shortink.io/register?utm_campaign=834148&utm_source=affiliate&utm_medium=sr&a=tBfMDGJdo90ACQ&al=1718313&ac=sahin&cid=936171&code=50START"
+target="_blank">
+
+💰 التسجيل في المنصة
+
+</a>
+
+
+
+<!-- رابط إشارات التداول -->
+
+<a class="button"
+href="https://t.me/+slQA_9vsj2EzYmQ0"
+target="_blank">
+
+📈 الدخول إلى إشارات التداول
+
+</a>
+
+
+
+<!-- رابط القناة المجانية -->
+
+<a class="button"
+href="https://t.me/bt5ab87"
+target="_blank">
+
+📢 الانضمام إلى القناة المجانية
+
+</a>
+
+
+<div class="footer">
+
+🔥 BT5AB TEAM 🔥
+
+</div>
+
+
+</div>
+
+
+</body>
+
+</html>
